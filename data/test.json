@@ -1,0 +1,15 @@
+{
+  "car": {
+    "color": "blue",
+    "modal": "ecosport",
+    "brand": "ford",
+    "fuel-type": "diesel",
+
+    "bike": {
+      "color": "red",
+      "modal": "cbr",
+      "brand": "honda",
+      "fuel-type": "petrol"
+    }
+  }
+}
